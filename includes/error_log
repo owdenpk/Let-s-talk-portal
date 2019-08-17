@@ -1,0 +1,51 @@
+[08-Jul-2019 15:05:03 America/Chicago] PHP Fatal error:  Call to undefined function random_bytes() in /home/ruitechc/public_html/includes/reset-request.inc.php on line 10
+[08-Jul-2019 15:12:55 America/Chicago] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ruitechc/public_html/includes/reset-request.inc.php on line 10
+[08-Jul-2019 15:12:55 America/Chicago] PHP Warning:  rand() expects exactly 2 parameters, 1 given in /home/ruitechc/public_html/includes/reset-request.inc.php on line 11
+[08-Jul-2019 15:14:49 America/Chicago] PHP Warning:  mt_rand() expects exactly 2 parameters, 1 given in /home/ruitechc/public_html/includes/reset-request.inc.php on line 10
+[08-Jul-2019 15:14:49 America/Chicago] PHP Warning:  mt_rand() expects exactly 2 parameters, 1 given in /home/ruitechc/public_html/includes/reset-request.inc.php on line 11
+[08-Jul-2019 15:20:45 America/Chicago] PHP Fatal error:  Call to undefined function random_bytes() in /home/ruitechc/public_html/includes/reset-request.inc.php on line 10
+[08-Jul-2019 15:31:36 America/Chicago] PHP Warning:  require(/connect.php): failed to open stream: No such file or directory in /home/ruitechc/public_html/includes/reset-request.inc.php on line 17
+[08-Jul-2019 15:31:36 America/Chicago] PHP Fatal error:  require(): Failed opening required '/connect.php' (include_path='.:/opt/php56/lib/php') in /home/ruitechc/public_html/includes/reset-request.inc.php on line 17
+[08-Jul-2019 15:39:30 America/Chicago] PHP Fatal error:  Call to undefined function random_bytes() in /home/ruitechc/public_html/includes/reset-request.inc.php on line 10
+[09-Jul-2019 07:02:46 America/Chicago] PHP Fatal error:  Call to undefined function random_bytes() in /home/ruitechc/public_html/includes/reset-request.inc.php on line 10
+[09-Jul-2019 07:32:56 America/Chicago] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/ruitechc/public_html/includes/reset-request.inc.php on line 28
+[09-Jul-2019 07:32:56 America/Chicago] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/ruitechc/public_html/includes/reset-request.inc.php on line 29
+[09-Jul-2019 07:34:47 America/Chicago] PHP Warning:  mysqli_stmt_bind_param(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 28
+[09-Jul-2019 07:34:47 America/Chicago] PHP Warning:  mysqli_stmt_execute(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 29
+[09-Jul-2019 07:55:59 America/Chicago] PHP Fatal error:  Only variables can be passed by reference in /home/ruitechc/public_html/includes/reset-request.inc.php on line 39
+[10-Jul-2019 04:05:55 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ruitechc/public_html/includes/reset-password.inc.php on line 34
+[10-Jul-2019 04:05:55 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ruitechc/public_html/includes/reset-password.inc.php on line 34
+[10-Jul-2019 04:25:02 America/Chicago] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/ruitechc/public_html/includes/reset-request.inc.php on line 11
+[10-Jul-2019 04:25:02 America/Chicago] PHP Warning:  require(connect.php): failed to open stream: No such file or directory in /home/ruitechc/public_html/includes/reset-request.inc.php on line 11
+[10-Jul-2019 04:25:02 America/Chicago] PHP Fatal error:  require(): Failed opening required 'connect.php' (include_path='.:/opt/php71/lib/php') in /home/ruitechc/public_html/includes/reset-request.inc.php on line 11
+[10-Jul-2019 04:26:56 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/ruitechc/public_html/includes/reset-request.inc.php on line 58
+[10-Jul-2019 04:27:25 America/Chicago] PHP Warning:  mysqli_stmt_bind_param(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 15
+[10-Jul-2019 04:27:25 America/Chicago] PHP Warning:  mysqli_stmt_execute(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 16
+[10-Jul-2019 04:41:56 America/Chicago] PHP Warning:  mysqli_stmt_bind_param(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 15
+[10-Jul-2019 04:41:56 America/Chicago] PHP Warning:  mysqli_stmt_execute(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 16
+[10-Jul-2019 04:41:56 America/Chicago] PHP Warning:  mysqli_stmt_bind_param(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 23
+[10-Jul-2019 04:41:56 America/Chicago] PHP Warning:  mysqli_stmt_execute(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 24
+[10-Jul-2019 04:41:56 America/Chicago] PHP Warning:  mysqli_stmt_close(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 26
+[10-Jul-2019 04:41:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruitechc/public_html/includes/reset-request.inc.php:15) in /home/ruitechc/public_html/includes/reset-request.inc.php on line 49
+[10-Jul-2019 04:42:46 America/Chicago] PHP Warning:  mysqli_stmt_bind_param(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 15
+[10-Jul-2019 04:42:46 America/Chicago] PHP Warning:  mysqli_stmt_execute(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 16
+[10-Jul-2019 04:42:46 America/Chicago] PHP Warning:  mysqli_stmt_bind_param(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 21
+[10-Jul-2019 04:42:46 America/Chicago] PHP Warning:  mysqli_stmt_execute(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 22
+[10-Jul-2019 04:42:46 America/Chicago] PHP Warning:  mysqli_stmt_close(): invalid object or resource mysqli_stmt
+ in /home/ruitechc/public_html/includes/reset-request.inc.php on line 23
+[10-Jul-2019 04:42:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruitechc/public_html/includes/reset-request.inc.php:15) in /home/ruitechc/public_html/includes/reset-request.inc.php on line 46
+[22-Jul-2019 04:19:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ruitechc/public_html/includes/reset-request.inc.php:24) in /home/ruitechc/public_html/includes/reset-request.inc.php on line 63
+[22-Jul-2019 04:20:46 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/ruitechc/public_html/includes/reset-password.inc.php on line 34
